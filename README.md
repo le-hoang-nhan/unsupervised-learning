@@ -4,10 +4,10 @@ https://nbviewer.jupyter.org/github/le-hoang-nhan/unsupervised-learning/blob/mas
 See my presentation PowerPoint here: 
 
 fish data for clustering
-https://studentiunitnit-my.sharepoint.com/:p:/g/personal/hoangnhan_le_studenti_unitn_it/EREbAkc0Mj1AtT2FXR4OOvIBu65Ejjz-t6ndIz87ser17g?e=PeweU1
+https://drive.google.com/file/d/1RzsVA0japSOZD9viFFwUl9abGZ-eGB_v/view?usp=sharing
 
 companies' stocks movements 2010-2015
-https://studentiunitnit-my.sharepoint.com/:p:/g/personal/hoangnhan_le_studenti_unitn_it/Eefj3mPnggBDpldUCY9LOPcBxz6NQ0OxGqppMSVPNgpAKg?e=RzYVNG
+https://drive.google.com/file/d/1ymrgiqJ5mMnfkArucFC5tvxTxSMg9H2x/view?usp=sharing
 
 # unsupervised-learning
 unsupervised-learning : Clustering for dataset exploration, Visualization with hierarchical clustering and t-SNE, Decorrelating data and dimension reduction
