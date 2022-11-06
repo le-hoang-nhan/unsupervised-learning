@@ -1,5 +1,4 @@
-If you can not open .ipynb file due to a GitHub error, you can open the file by following this link 
-https://nbviewer.jupyter.org/github/le-hoang-nhan/unsupervised-learning/blob/master/unsupervised-learning.ipynb
+
 
 See my presentation PowerPoint here: 
 
